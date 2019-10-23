@@ -1,0 +1,6 @@
+commite
+
+devi them builder
+
+
+rm -rf .git (If you had a previous mistake in git and want to delete it then do)
